@@ -1,0 +1,23 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+#port{
+    color: rgb(233, 117, 35);
+}
+p{
+    color: dimgrey; 
+    text-align: justify;
+    
+}
+.half-width{
+    margin-left: 5%;
+    padding-left: 2%;
+    float:left;
+    width: 40%;
+}
+.half-width img{
+    width: 100%;
+}
