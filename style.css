@@ -12,6 +12,7 @@ h1{
 p{
     color: dimgrey; 
     text-align: justify;    
+    width: 90%;
 }
 .half-width{
     margin-left: 5%;
@@ -26,6 +27,7 @@ p{
     background-image: url("image/top-banner.png");
     height: 500px;
     background-repeat: no-repeat;
+    padding-bottom: 120px;
 }
 .link-button{
     color: white;
@@ -34,4 +36,28 @@ p{
     text-decoration: none;
     padding: 7px 17px;
     font-weight: 700;
+}
+.mid{
+    background-image: url("image/dream-bg.png");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: bottom right;    
+    margin-bottom: 120px;
+}
+h4{
+    color: orange;
+}
+.single-exp{   
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 10px;
+    height: 250px;
+}
+.single-exp h1{
+    font-size: xx-large;
+}
+.exp-area{
+    background-image: url("image/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+
 }
